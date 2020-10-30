@@ -1,10 +1,11 @@
 import React from 'react';
+import './App-header.css';
 
 const AppHeader = () => {
   return (
-    <div className="add-header d-flex">
+    <div className="app-header d-flex">
       <h1>Angelina Petrova</h1>
-      <h2>5 записейб из них понравилось 0</h2>
+      <h2>5 записей из них понравилось 0</h2>
     </div>
   )
 }

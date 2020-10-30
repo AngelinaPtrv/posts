@@ -1,4 +1,5 @@
 import React from 'react';
+import './Post-list.css';
 
 import PostListItem from '../Post-list-item/Post-list-item'
 
